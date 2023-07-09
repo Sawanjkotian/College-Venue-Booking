@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">testing</string>
+    <string name="signup">signup</string>
+    <string name="password">password</string>
+    <string name="phone">Phone</string>
+    <string name="sign_up">Sign up</string>
+    <string name="signin">signin</string>
+    <string name="forward" />
+    <string name="back" />
+    <string name="sun">SUN</string>
+    <string name="feb_2021">Feb 2021</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thur">THUR</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="event_name">Event Name</string>
+    <string name="start_time_hh_mm">Start Time (HH:mm)</string>
+    <string name="end_time_hh_mm">End Time (HH:mm)</string>
+    <string name="event_location">Event Location</string>
+    <string name="till">Till</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+    <string name="save_event">Save Event</string>
+    <string name="select_location" />
+    <string name="profile">Profile</string>
+    <string name="event_date">Event Date</string>
+    <string name="from">From</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="time_till">Time Till</string>
+    <string name="time_from">Time from</string>
+    <string name="Profile">Profile</string>
+    <string name="event_venue">Event Venue</string>
+    <string name="purpose">Purpose</string>
+    <string name="teacher_event">Teacher Event</string>
+    <string name="student_event">Student Event</string>
+    <string name="Event_name">Event Name</string>
+    <string name="From">From</string>
+    <string name="to">To</string>
+    <string name="add_event">Add Event</string>
+    <string name="timings" />
+    <string name="selected_date">Selected Date</string>
+    <string name="card_title">Card Title</string>
+    <string name="netravati_auditorium">Netravati Auditorium</string>
+    <string name="first_floor_seminar_hall">First Floor Seminar Hall</string>
+    <string name="ground_floor_seminar_hall">Ground Floor Seminar Hall</string>
+    <string name="second_floor_seminar_hall">Second Floor Seminar Hall</string>
+    <string name="front_ground">Front Ground</string>
+    <string name="back_ground">Back Ground</string>
+    <string name="second_floor_seminar_hall1">Second Floor Seminar Hall</string>
+    <string-array name="venue_options">
+        <item>Ground-Floor Seminar Hall</item>
+        <item>First-Floor Seminar Hall</item>
+        <item>Second-Floor Seminar Hall</item>
+        <item>Netravati Auditorium</item>
+        <!-- Add more venue options as needed -->
+    </string-array>
+
+
+</resources>

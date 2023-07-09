@@ -1,0 +1,39 @@
+<!-- booking_item.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/card_background">
+
+    <TextView
+        android:id="@+id/textViewDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewEventName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Event Name"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewSlot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Slot"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/textViewVenue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Venue"
+        android:textSize="25sp" />
+
+</LinearLayout>
